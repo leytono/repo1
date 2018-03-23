@@ -1,0 +1,87 @@
+Cap1 review
+
+1
+a,b,e
+
+2
+d
+
+3
+b,d,e
+
+4
+a,b
+
+5
+c,d
+
+6
+e
+
+7
+a,b,c, 
+
+8
+b,
+
+9
+a,c,d,-e
+
+10
+g-e
+
+11
+c,d,
+
+12
+c,d,f
+
+13
+a,d,
+
+14
+b,
+
+15
+a,d,e
+
+16
+f
+
+17
+a,e,
+
+18
+c,d,e,
+
+19
+b,d,
+
+20
+e
+
+21
+a
+
+22
+b,e,
+
+23
+c,d,
+
+
+Summary Cap 1 question review
+-------------------------------
+1) package name are keySensitive and all the path needs to be filled up
+2) hexa, binars should be included into int,long,...
+3) _ should be use in number only between numbers not at the beginning, end or near .
+4) attention to varargs
+5) local variables don't have default value
+6)
+
+-----------------------------------------------
+
+
+
+
+

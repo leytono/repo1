@@ -1,0 +1,17 @@
+repos:
+-   repo: git://github.com/pre-commit/pre-commit-hooks
+    sha: v1.1.1
+    hooks:
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+-   repo: git://github.com/Lucas-C/pre-commit-hooks
+    sha: v1.1.4
+    hooks:
+    -   id: remove-crlf
+    -   id: remove-tabs
+        args: [ --whitespaces-count=2 ]
+        exclude: ^Makefile$
+-   repo: git@github.com:leytono/pre-commit-hooks.git
+    sha: v0.1
+    hooks:
+    -   id: google-java-formatter
